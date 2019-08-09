@@ -26,7 +26,7 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 
-client.login(process.env.8xvZA-VUB2t2vlyEDbzlkkKWUtXT4zJd);//BOT_TOKEN is the Client Secret
+client.login(process.env.NjA3NDc4Mzk5NTgxMjkwNDk2.XU2_0w.SSwWhLGgmbFHQSisBsgX4VRYl7M);//BOT_TOKEN is the Client Secret
 });
 bot.on('message', function (user, userID, channelID, message, evt) {
     // Our bot needs to know if it will execute a command
